@@ -1,0 +1,2 @@
+# IOAI Work
+This code was for [IOAI Canada](https://www.ioai-canada.org/) 2024, specifically for the [Adaptive Attacks problem](https://www.ioai-canada.org/resources). The problem was an introduction to adversarial pertubations, where an image classifier can be tricked by an imperceptible change to an image. It also was an introduction to PyTorch, one of the major Machine Learning frameworks for python. I placed in the silver category for IOAI 2024.
