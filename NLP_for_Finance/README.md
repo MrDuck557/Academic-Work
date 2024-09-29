@@ -1,0 +1,2 @@
+# NLP for Finance
+This project from Inspirit AI was a group project about using a natural language model to analyze financial tweets and predict how positive or negative they were. The file Scholars_2023b_LateSpring11_NLP_Finance_group_presentation.pdf is a presentation about how the model works and what it does.
